@@ -1,8 +1,9 @@
 CMakeFiles/SDL3-shared.dir/src/io/SDL_iostream.c.o: \
- /home/dethfo/e_port_folio/SDL/src/io/SDL_iostream.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/io/SDL_iostream.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h /usr/include/unistd.h \
- /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /usr/include/unistd.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
@@ -46,4 +47,4 @@ CMakeFiles/SDL3-shared.dir/src/io/SDL_iostream.c.o: \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
- /home/dethfo/e_port_folio/SDL/src/io/SDL_iostream_c.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/io/SDL_iostream_c.h

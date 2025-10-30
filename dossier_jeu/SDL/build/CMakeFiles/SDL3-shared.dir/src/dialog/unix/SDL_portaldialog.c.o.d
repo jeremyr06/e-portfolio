@@ -1,9 +1,9 @@
 CMakeFiles/SDL3-shared.dir/src/dialog/unix/SDL_portaldialog.c.o: \
- /home/dethfo/e_port_folio/SDL/src/dialog/unix/SDL_portaldialog.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dialog/unix/SDL_portaldialog.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/dialog/unix/../SDL_dialog_utils.h \
- /home/dethfo/e_port_folio/SDL/src/dialog/unix/../../core/linux/SDL_dbus.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dialog/unix/../SDL_dialog_utils.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dialog/unix/../../core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \

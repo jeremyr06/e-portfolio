@@ -1,8 +1,8 @@
 CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_systhread.c.o: \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/SDL_systhread.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/SDL_systhread.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h /usr/include/pthread.h \
- /usr/include/features.h /usr/include/sched.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /usr/include/pthread.h /usr/include/features.h /usr/include/sched.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
@@ -71,7 +71,7 @@ CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_systhread.c.o: \
  /usr/include/x86_64-linux-gnu/asm/unistd.h \
  /usr/include/x86_64-linux-gnu/asm/unistd_64.h \
  /usr/include/x86_64-linux-gnu/bits/syscall.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/../../core/linux/SDL_dbus.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/../../core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \
@@ -93,9 +93,9 @@ CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_systhread.c.o: \
  /usr/include/dbus-1.0/dbus/dbus-threads.h /usr/include/dlfcn.h \
  /usr/include/x86_64-linux-gnu/bits/dlfcn.h \
  /usr/include/x86_64-linux-gnu/bits/dl_find_object.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/../SDL_thread_c.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/../pthread/SDL_systhread_c.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/../../SDL_error_c.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/../../SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/../SDL_systhread.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/../SDL_thread_c.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/../SDL_thread_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/../pthread/SDL_systhread_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/../../SDL_error_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/../../SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/../SDL_systhread.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/../SDL_thread_c.h

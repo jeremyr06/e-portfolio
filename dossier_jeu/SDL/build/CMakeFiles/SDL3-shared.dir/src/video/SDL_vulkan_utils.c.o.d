@@ -1,9 +1,9 @@
 CMakeFiles/SDL3-shared.dir/src/video/SDL_vulkan_utils.c.o: \
- /home/dethfo/e_port_folio/SDL/src/video/SDL_vulkan_utils.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/SDL_vulkan_utils.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/video/SDL_vulkan_internal.h \
- /home/dethfo/e_port_folio/SDL/src/video/wayland/SDL_waylanddyn.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/SDL_vulkan_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/wayland/SDL_waylanddyn.h \
  /usr/include/wayland-cursor.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
  /usr/include/wayland-util.h /usr/include/math.h \
@@ -17,27 +17,27 @@ CMakeFiles/SDL3-shared.dir/src/video/SDL_vulkan_utils.c.o: \
  /usr/include/xkbcommon/xkbcommon-compose.h \
  /usr/include/wayland-client-core.h /usr/include/wayland-util.h \
  /usr/include/wayland-version.h \
- /home/dethfo/e_port_folio/SDL/src/video/wayland/SDL_waylandsym.h \
- /home/dethfo/e_port_folio/SDL/build/wayland-generated-protocols/wayland-client-protocol.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/wayland/SDL_waylandsym.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/build/wayland-generated-protocols/wayland-client-protocol.h \
  /usr/include/wayland-client.h /usr/include/wayland-client-core.h \
  /usr/include/wayland-client-protocol.h /usr/include/wayland-egl.h \
  /usr/include/wayland-egl-core.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/vulkan.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/vk_platform.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/vulkan_core.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h264std.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codecs_common.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h264std_encode.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h264std.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h265std.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h265std_encode.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h265std.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h264std_decode.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h265std_decode.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_av1std.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_av1std_decode.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_av1std.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/vulkan_wayland.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/vulkan.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/vk_platform.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/vulkan_core.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h264std.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codecs_common.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h264std_encode.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h264std.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h265std.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h265std_encode.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h265std.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h264std_decode.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_h265std_decode.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_av1std.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_av1std_decode.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/../vk_video/vulkan_video_codec_av1std.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/vulkan_wayland.h \
  /usr/include/xcb/xcb.h /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/sys/uio.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
@@ -66,13 +66,13 @@ CMakeFiles/SDL3-shared.dir/src/video/SDL_vulkan_utils.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
  /usr/include/xcb/xproto.h /usr/include/xcb/xcb.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/vulkan_xcb.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/vulkan_xcb.h \
  /usr/include/X11/Xlib.h /usr/include/X11/X.h \
  /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
- /home/dethfo/e_port_folio/SDL/src/video/./khronos/vulkan/vulkan_xlib.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_vulkan.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_stdinc.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_error.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_video.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_begin_code.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_close_code.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/./khronos/vulkan/vulkan_xlib.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_vulkan.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_stdinc.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_error.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_video.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_begin_code.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_close_code.h

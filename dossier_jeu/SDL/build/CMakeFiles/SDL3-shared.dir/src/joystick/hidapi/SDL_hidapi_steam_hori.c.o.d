@@ -1,10 +1,10 @@
 CMakeFiles/SDL3-shared.dir/src/joystick/hidapi/SDL_hidapi_steam_hori.c.o: \
- /home/dethfo/e_port_folio/SDL/src/joystick/hidapi/SDL_hidapi_steam_hori.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/hidapi/SDL_hidapi_steam_hori.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/hidapi/../SDL_sysjoystick.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/hidapi/../SDL_joystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/hidapi/SDL_hidapijoystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/hidapi/../usb_ids.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/hidapi/SDL_hidapi_rumble.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/hidapi/../SDL_joystick_c.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/hidapi/../SDL_sysjoystick.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/hidapi/../SDL_joystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/hidapi/SDL_hidapijoystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/hidapi/../usb_ids.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/hidapi/SDL_hidapi_rumble.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/hidapi/../SDL_joystick_c.h

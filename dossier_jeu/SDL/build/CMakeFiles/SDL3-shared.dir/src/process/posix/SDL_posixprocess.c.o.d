@@ -1,8 +1,9 @@
 CMakeFiles/SDL3-shared.dir/src/process/posix/SDL_posixprocess.c.o: \
- /home/dethfo/e_port_folio/SDL/src/process/posix/SDL_posixprocess.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/process/posix/SDL_posixprocess.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h /usr/include/dirent.h \
- /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/types.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /usr/include/dirent.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/dirent.h \
  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -65,5 +66,5 @@ CMakeFiles/SDL3-shared.dir/src/process/posix/SDL_posixprocess.c.o: \
  /usr/include/stdlib.h /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/sys/wait.h \
  /usr/include/x86_64-linux-gnu/bits/types/idtype_t.h \
- /home/dethfo/e_port_folio/SDL/src/process/posix/../SDL_sysprocess.h \
- /home/dethfo/e_port_folio/SDL/src/process/posix/../../io/SDL_iostream_c.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/process/posix/../SDL_sysprocess.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/process/posix/../../io/SDL_iostream_c.h

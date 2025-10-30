@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/dethfo/e_port_folio/SDL/build/include-revision -I/home/dethfo/e_port_folio/SDL/include
+C_INCLUDES = -I/home/dethfo/e-portfolio/dossier_jeu/SDL/build/include-revision -I/home/dethfo/e-portfolio/dossier_jeu/SDL/include
 
 C_FLAGS = -O2 -g -DNDEBUG -Wall -Wundef -Wfloat-conversion -fno-strict-aliasing -Wshadow -Wno-unused-local-typedefs -Wimplicit-fallthrough -fdiagnostics-color=always
 

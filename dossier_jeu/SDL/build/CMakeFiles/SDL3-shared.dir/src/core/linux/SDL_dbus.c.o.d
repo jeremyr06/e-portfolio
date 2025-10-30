@@ -1,8 +1,8 @@
 CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_dbus.c.o: \
- /home/dethfo/e_port_folio/SDL/src/core/linux/SDL_dbus.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/core/linux/SDL_dbus.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/core/linux/SDL_dbus.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \
@@ -23,4 +23,4 @@ CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_dbus.c.o: \
  /usr/include/dbus-1.0/dbus/dbus-signature.h \
  /usr/include/dbus-1.0/dbus/dbus-syntax.h \
  /usr/include/dbus-1.0/dbus/dbus-threads.h \
- /home/dethfo/e_port_folio/SDL/src/core/linux/../../stdlib/SDL_vacopy.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/core/linux/../../stdlib/SDL_vacopy.h

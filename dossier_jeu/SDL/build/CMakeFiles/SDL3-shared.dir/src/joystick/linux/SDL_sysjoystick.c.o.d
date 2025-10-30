@@ -1,7 +1,7 @@
 CMakeFiles/SDL3-shared.dir/src/joystick/linux/SDL_sysjoystick.c.o: \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/SDL_sysjoystick.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/SDL_sysjoystick.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
@@ -69,33 +69,33 @@ CMakeFiles/SDL3-shared.dir/src/joystick/linux/SDL_sysjoystick.c.o: \
  /usr/include/x86_64-linux-gnu/sys/select.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/linux/input-event-codes.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_events_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/../video/SDL_sysvideo.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_vulkan.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_stdinc.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_error.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_video.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_begin_code.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_close_code.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/../video/SDL_surface_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/../video/SDL_blit.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_clipboardevents_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_displayevents_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_dropevents_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_keyboard_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_keymap_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_mouse_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_touch_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_pen_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/../SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../events/SDL_windowevents_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../core/linux/SDL_evdev.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../SDL_sysjoystick.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../SDL_joystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../SDL_joystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../usb_ids.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/SDL_sysjoystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../hidapi/SDL_hidapijoystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../hidapi/../usb_ids.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../core/linux/SDL_evdev_capabilities.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/linux/../../core/linux/SDL_udev.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_events_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/../video/SDL_sysvideo.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_vulkan.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_stdinc.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_error.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_video.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_begin_code.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_close_code.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/../video/SDL_surface_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/../video/SDL_blit.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_clipboardevents_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_displayevents_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_dropevents_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_keyboard_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_keymap_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_mouse_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_touch_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_pen_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/../SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../events/SDL_windowevents_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../core/linux/SDL_evdev.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../SDL_sysjoystick.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../SDL_joystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../SDL_joystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../usb_ids.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/SDL_sysjoystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../hidapi/SDL_hidapijoystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../hidapi/../usb_ids.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../core/linux/SDL_evdev_capabilities.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/linux/../../core/linux/SDL_udev.h

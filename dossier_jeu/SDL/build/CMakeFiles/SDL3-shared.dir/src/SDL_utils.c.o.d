@@ -1,7 +1,9 @@
 CMakeFiles/SDL3-shared.dir/src/SDL_utils.c.o: \
- /home/dethfo/e_port_folio/SDL/src/SDL_utils.c /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h /usr/include/unistd.h \
- /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_utils.c \
+ /usr/include/stdc-predef.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /usr/include/unistd.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
@@ -13,5 +15,5 @@ CMakeFiles/SDL3-shared.dir/src/SDL_utils.c.o: \
  /usr/include/x86_64-linux-gnu/bits/unistd-decl.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/SDL_joystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/SDL_joystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h

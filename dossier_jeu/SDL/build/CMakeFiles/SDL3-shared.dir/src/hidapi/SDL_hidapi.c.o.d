@@ -1,14 +1,14 @@
 CMakeFiles/SDL3-shared.dir/src/hidapi/SDL_hidapi.c.o: \
- /home/dethfo/e_port_folio/SDL/src/hidapi/SDL_hidapi.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/hidapi/SDL_hidapi.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/hidapi/SDL_hidapi_c.h \
- /home/dethfo/e_port_folio/SDL/src/hidapi/../joystick/usb_ids.h \
- /home/dethfo/e_port_folio/SDL/src/hidapi/../SDL_hints_c.h \
- /home/dethfo/e_port_folio/SDL/src/hidapi/../SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/hidapi/hidapi/hidapi.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/hidapi/SDL_hidapi_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/hidapi/../joystick/usb_ids.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/hidapi/../SDL_hints_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/hidapi/../SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/hidapi/hidapi/hidapi.h \
  /usr/include/wchar.h \
- /home/dethfo/e_port_folio/SDL/src/hidapi/../core/linux/SDL_udev.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/hidapi/../core/linux/SDL_udev.h \
  /usr/include/string.h /usr/include/errno.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
@@ -48,4 +48,4 @@ CMakeFiles/SDL3-shared.dir/src/hidapi/SDL_hidapi.c.o: \
  /usr/include/x86_64-linux-gnu/bits/unistd-decl.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/dethfo/e_port_folio/SDL/src/hidapi/SDL_hidapi_linux.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/hidapi/SDL_hidapi_linux.h

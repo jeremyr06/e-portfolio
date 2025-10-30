@@ -1,9 +1,9 @@
 CMakeFiles/SDL3-shared.dir/src/joystick/SDL_steam_virtual_gamepad.c.o: \
- /home/dethfo/e_port_folio/SDL/src/joystick/SDL_steam_virtual_gamepad.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/SDL_steam_virtual_gamepad.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/SDL_joystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/joystick/SDL_steam_virtual_gamepad.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/SDL_joystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/joystick/SDL_steam_virtual_gamepad.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \

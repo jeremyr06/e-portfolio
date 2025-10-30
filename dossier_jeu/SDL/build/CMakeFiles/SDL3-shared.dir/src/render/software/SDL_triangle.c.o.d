@@ -1,7 +1,7 @@
 CMakeFiles/SDL3-shared.dir/src/render/software/SDL_triangle.c.o: \
- /home/dethfo/e_port_folio/SDL/src/render/software/SDL_triangle.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/render/software/SDL_triangle.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h \
  /usr/include/limits.h \
@@ -14,6 +14,6 @@ CMakeFiles/SDL3-shared.dir/src/render/software/SDL_triangle.c.o: \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
- /home/dethfo/e_port_folio/SDL/src/render/software/SDL_triangle.h \
- /home/dethfo/e_port_folio/SDL/src/render/software/../../video/SDL_surface_c.h \
- /home/dethfo/e_port_folio/SDL/src/render/software/../../video/SDL_blit.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/render/software/SDL_triangle.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/render/software/../../video/SDL_surface_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/render/software/../../video/SDL_blit.h

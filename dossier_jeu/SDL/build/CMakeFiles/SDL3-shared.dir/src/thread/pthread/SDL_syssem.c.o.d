@@ -1,9 +1,10 @@
 CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_syssem.c.o: \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/SDL_syssem.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/SDL_syssem.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h /usr/include/errno.h \
- /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /usr/include/errno.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/pthread.h /usr/include/sched.h \

@@ -1,7 +1,7 @@
 CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_threadprio.c.o: \
- /home/dethfo/e_port_folio/SDL/src/core/linux/SDL_threadprio.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/core/linux/SDL_threadprio.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
  /usr/include/x86_64-linux-gnu/sys/time.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
@@ -40,7 +40,7 @@ CMakeFiles/SDL3-shared.dir/src/core/linux/SDL_threadprio.c.o: \
  /usr/include/x86_64-linux-gnu/bits/unistd-decl.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/dethfo/e_port_folio/SDL/src/core/linux/SDL_dbus.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \

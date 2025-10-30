@@ -2,7 +2,7 @@ if(CPACK_PACKAGE_FILE_NAME MATCHES ".*-src$")
     message(FATAL_ERROR "Creating source archives for SDL 3.3.3 is not supported.")
 endif()
 
-set(PROJECT_SOURCE_DIR "/home/dethfo/e_port_folio/SDL")
+set(PROJECT_SOURCE_DIR "/home/dethfo/e-portfolio/dossier_jeu/SDL")
 set(SDL_CMAKE_PLATFORM "Linux")
 set(SDL_CPU_NAMES "")
 list(SORT SDL_CPU_NAMES)

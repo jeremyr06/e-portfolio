@@ -1,8 +1,8 @@
 CMakeFiles/SDL3-shared.dir/src/core/unix/SDL_appid.c.o: \
- /home/dethfo/e_port_folio/SDL/src/core/unix/SDL_appid.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/core/unix/SDL_appid.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/core/unix/SDL_appid.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/core/unix/SDL_appid.h \
  /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \

@@ -1,8 +1,8 @@
 CMakeFiles/SDL3-shared.dir/src/power/linux/SDL_syspower.c.o: \
- /home/dethfo/e_port_folio/SDL/src/power/linux/SDL_syspower.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/power/linux/SDL_syspower.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h /usr/include/stdio.h \
- /usr/include/unistd.h /usr/include/features.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /usr/include/stdio.h /usr/include/unistd.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -43,8 +43,8 @@ CMakeFiles/SDL3-shared.dir/src/power/linux/SDL_syspower.c.o: \
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
  /usr/include/linux/falloc.h /usr/include/x86_64-linux-gnu/bits/fcntl2.h \
- /home/dethfo/e_port_folio/SDL/src/power/linux/../SDL_syspower.h \
- /home/dethfo/e_port_folio/SDL/src/power/linux/../../core/linux/SDL_dbus.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/power/linux/../SDL_syspower.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/power/linux/../../core/linux/SDL_dbus.h \
  /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/lib/x86_64-linux-gnu/dbus-1.0/include/dbus/dbus-arch-deps.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \

@@ -1,9 +1,9 @@
 CMakeFiles/SDL3-shared.dir/src/tray/unix/SDL_tray.c.o: \
- /home/dethfo/e_port_folio/SDL/src/tray/unix/SDL_tray.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/tray/unix/SDL_tray.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/tray/unix/../SDL_tray_utils.h \
- /home/dethfo/e_port_folio/SDL/src/tray/unix/../../video/SDL_stb_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/tray/unix/../SDL_tray_utils.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/tray/unix/../../video/SDL_stb_c.h \
  /usr/include/dlfcn.h /usr/include/features.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/dlfcn.h \
@@ -23,4 +23,4 @@ CMakeFiles/SDL3-shared.dir/src/tray/unix/SDL_tray.c.o: \
  /usr/include/x86_64-linux-gnu/bits/unistd-decl.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/dethfo/e_port_folio/SDL/src/tray/unix/../../core/unix/SDL_gtk.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/tray/unix/../../core/unix/SDL_gtk.h

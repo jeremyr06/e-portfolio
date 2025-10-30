@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/dethfo/e_port_folio/SDL
+CMAKE_SOURCE_DIR = /home/dethfo/e-portfolio/dossier_jeu/SDL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/dethfo/e_port_folio/SDL/build
+CMAKE_BINARY_DIR = /home/dethfo/e-portfolio/dossier_jeu/SDL/build
 
 # Utility rule file for uninstall.
 
@@ -67,7 +67,7 @@ include CMakeFiles/uninstall.dir/compiler_depend.make
 include CMakeFiles/uninstall.dir/progress.make
 
 CMakeFiles/uninstall:
-	/usr/bin/cmake -P /home/dethfo/e_port_folio/SDL/build/cmake_uninstall.cmake
+	/usr/bin/cmake -P /home/dethfo/e-portfolio/dossier_jeu/SDL/build/cmake_uninstall.cmake
 
 uninstall: CMakeFiles/uninstall
 uninstall: CMakeFiles/uninstall.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/dethfo/e_port_folio/SDL/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/dethfo/e_port_folio/SDL /home/dethfo/e_port_folio/SDL /home/dethfo/e_port_folio/SDL/build /home/dethfo/e_port_folio/SDL/build /home/dethfo/e_port_folio/SDL/build/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/dethfo/e-portfolio/dossier_jeu/SDL/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/dethfo/e-portfolio/dossier_jeu/SDL /home/dethfo/e-portfolio/dossier_jeu/SDL /home/dethfo/e-portfolio/dossier_jeu/SDL/build /home/dethfo/e-portfolio/dossier_jeu/SDL/build /home/dethfo/e-portfolio/dossier_jeu/SDL/build/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/uninstall.dir/depend
 

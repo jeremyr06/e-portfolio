@@ -1,8 +1,8 @@
 CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylanddyn.c.o: \
- /home/dethfo/e_port_folio/SDL/src/video/wayland/SDL_waylanddyn.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/wayland/SDL_waylanddyn.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/video/wayland/SDL_waylanddyn.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/wayland/SDL_waylanddyn.h \
  /usr/include/wayland-cursor.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
  /usr/include/wayland-util.h /usr/include/math.h \
@@ -16,8 +16,8 @@ CMakeFiles/SDL3-shared.dir/src/video/wayland/SDL_waylanddyn.c.o: \
  /usr/include/xkbcommon/xkbcommon-compose.h \
  /usr/include/wayland-client-core.h /usr/include/wayland-util.h \
  /usr/include/wayland-version.h \
- /home/dethfo/e_port_folio/SDL/src/video/wayland/SDL_waylandsym.h \
- /home/dethfo/e_port_folio/SDL/build/wayland-generated-protocols/wayland-client-protocol.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/video/wayland/SDL_waylandsym.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/build/wayland-generated-protocols/wayland-client-protocol.h \
  /usr/include/wayland-client.h /usr/include/wayland-client-core.h \
  /usr/include/wayland-client-protocol.h /usr/include/wayland-egl.h \
  /usr/include/wayland-egl-core.h

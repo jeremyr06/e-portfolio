@@ -1,10 +1,10 @@
 CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.o: \
- /home/dethfo/e_port_folio/SDL/src/dynapi/SDL_dynapi.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dynapi/SDL_dynapi.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/build/include-config-relwithdebinfo/build_config/SDL_build_config.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_platform_defines.h \
- /home/dethfo/e_port_folio/SDL/src/dynapi/SDL_dynapi.h \
- /home/dethfo/e_port_folio/SDL/src/dynapi/SDL_dynapi_unsupported.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/build/include-config-relwithdebinfo/build_config/SDL_build_config.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_platform_defines.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dynapi/SDL_dynapi.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dynapi/SDL_dynapi_unsupported.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -61,8 +61,8 @@ CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_stdinc.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_stdinc.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
@@ -79,66 +79,66 @@ CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
  /usr/include/inttypes.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_begin_code.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_close_code.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_assert.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_asyncio.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_atomic.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_audio.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_endian.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_error.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_mutex.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_thread.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_properties.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_iostream.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_bits.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_blendmode.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_camera.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_pixels.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_surface.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_rect.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_clipboard.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_cpuinfo.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_dialog.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_video.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_dlopennote.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_events.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_gamepad.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_guid.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_joystick.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_power.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_sensor.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_keyboard.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_keycode.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_scancode.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_mouse.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_pen.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_touch.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_filesystem.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_gpu.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_haptic.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_hidapi.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_hints.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_init.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_loadso.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_locale.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_log.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_messagebox.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_metal.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_misc.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_platform.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_process.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_render.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_storage.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_system.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_time.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_timer.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_tray.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_version.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_oldnames.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_main.h \
- /home/dethfo/e_port_folio/SDL/src/dynapi/../core/SDL_core_unsupported.h \
- /home/dethfo/e_port_folio/SDL/src/dynapi/../video/SDL_video_unsupported.h \
- /home/dethfo/e_port_folio/SDL/include/SDL3/SDL_vulkan.h \
- /home/dethfo/e_port_folio/SDL/src/dynapi/SDL_dynapi_procs.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_begin_code.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_close_code.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_assert.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_asyncio.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_atomic.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_audio.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_endian.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_error.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_mutex.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_thread.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_properties.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_iostream.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_bits.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_blendmode.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_camera.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_pixels.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_surface.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_rect.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_clipboard.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_cpuinfo.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_dialog.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_video.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_dlopennote.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_events.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_gamepad.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_guid.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_joystick.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_power.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_sensor.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_keyboard.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_keycode.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_scancode.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_mouse.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_pen.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_touch.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_filesystem.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_gpu.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_haptic.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_hidapi.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_hints.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_init.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_loadso.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_locale.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_log.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_messagebox.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_metal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_misc.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_platform.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_process.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_render.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_storage.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_system.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_time.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_timer.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_tray.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_version.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_oldnames.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_main.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dynapi/../core/SDL_core_unsupported.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dynapi/../video/SDL_video_unsupported.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/include/SDL3/SDL_vulkan.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/dynapi/SDL_dynapi_procs.h \
  /usr/include/dlfcn.h /usr/include/x86_64-linux-gnu/bits/dlfcn.h

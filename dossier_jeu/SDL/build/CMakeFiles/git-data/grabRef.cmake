@@ -17,27 +17,27 @@
 
 set(HEAD_HASH)
 
-file(READ "/home/dethfo/e_port_folio/SDL/build/CMakeFiles/git-data/HEAD" HEAD_CONTENTS LIMIT 1024)
+file(READ "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/CMakeFiles/git-data/HEAD" HEAD_CONTENTS LIMIT 1024)
 
 string(STRIP "${HEAD_CONTENTS}" HEAD_CONTENTS)
 if(HEAD_CONTENTS MATCHES "ref")
 	# named branch
 	string(REPLACE "ref: " "" HEAD_REF "${HEAD_CONTENTS}")
-	if(EXISTS "/home/dethfo/e_port_folio/SDL/.git/${HEAD_REF}")
-		configure_file("/home/dethfo/e_port_folio/SDL/.git/${HEAD_REF}" "/home/dethfo/e_port_folio/SDL/build/CMakeFiles/git-data/head-ref" COPYONLY)
+	if(EXISTS "/home/dethfo/e-portfolio/dossier_jeu/SDL/.git/${HEAD_REF}")
+		configure_file("/home/dethfo/e-portfolio/dossier_jeu/SDL/.git/${HEAD_REF}" "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/CMakeFiles/git-data/head-ref" COPYONLY)
 	else()
-		configure_file("/home/dethfo/e_port_folio/SDL/.git/packed-refs" "/home/dethfo/e_port_folio/SDL/build/CMakeFiles/git-data/packed-refs" COPYONLY)
-		file(READ "/home/dethfo/e_port_folio/SDL/build/CMakeFiles/git-data/packed-refs" PACKED_REFS)
+		configure_file("/home/dethfo/e-portfolio/dossier_jeu/SDL/.git/packed-refs" "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/CMakeFiles/git-data/packed-refs" COPYONLY)
+		file(READ "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/CMakeFiles/git-data/packed-refs" PACKED_REFS)
 		if(${PACKED_REFS} MATCHES "([0-9a-z]*) ${HEAD_REF}")
 			set(HEAD_HASH "${CMAKE_MATCH_1}")
 		endif()
 	endif()
 else()
 	# detached HEAD
-	configure_file("/home/dethfo/e_port_folio/SDL/.git/HEAD" "/home/dethfo/e_port_folio/SDL/build/CMakeFiles/git-data/head-ref" COPYONLY)
+	configure_file("/home/dethfo/e-portfolio/dossier_jeu/SDL/.git/HEAD" "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/CMakeFiles/git-data/head-ref" COPYONLY)
 endif()
 
 if(NOT HEAD_HASH)
-	file(READ "/home/dethfo/e_port_folio/SDL/build/CMakeFiles/git-data/head-ref" HEAD_HASH LIMIT 1024)
+	file(READ "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/CMakeFiles/git-data/head-ref" HEAD_HASH LIMIT 1024)
 	string(STRIP "${HEAD_HASH}" HEAD_HASH)
 endif()

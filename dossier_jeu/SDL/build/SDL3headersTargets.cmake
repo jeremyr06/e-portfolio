@@ -54,7 +54,7 @@ unset(_cmake_expected_targets)
 add_library(SDL3::Headers INTERFACE IMPORTED)
 
 set_target_properties(SDL3::Headers PROPERTIES
-  INTERFACE_INCLUDE_DIRECTORIES "/home/dethfo/e_port_folio/SDL/build/include-revision;/home/dethfo/e_port_folio/SDL/include"
+  INTERFACE_INCLUDE_DIRECTORIES "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/include-revision;/home/dethfo/e-portfolio/dossier_jeu/SDL/include"
 )
 
 # This file does not depend on other imported targets which have

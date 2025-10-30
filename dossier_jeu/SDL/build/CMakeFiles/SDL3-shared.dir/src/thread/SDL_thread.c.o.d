@@ -1,9 +1,9 @@
 CMakeFiles/SDL3-shared.dir/src/thread/SDL_thread.c.o: \
- /home/dethfo/e_port_folio/SDL/src/thread/SDL_thread.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/SDL_thread.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/thread/SDL_thread_c.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/SDL_systhread_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/SDL_thread_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/SDL_systhread_c.h \
  /usr/include/pthread.h /usr/include/features.h /usr/include/sched.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
@@ -28,6 +28,6 @@ CMakeFiles/SDL3-shared.dir/src/thread/SDL_thread.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
- /home/dethfo/e_port_folio/SDL/src/thread/../SDL_error_c.h \
- /home/dethfo/e_port_folio/SDL/src/thread/../SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/thread/SDL_systhread.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/../SDL_error_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/../SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/SDL_systhread.h

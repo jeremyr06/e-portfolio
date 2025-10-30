@@ -1,9 +1,10 @@
 CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_sysmutex.c.o: \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/SDL_sysmutex.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/SDL_sysmutex.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h /usr/include/errno.h \
- /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /usr/include/errno.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/pthread.h /usr/include/sched.h \
@@ -30,4 +31,4 @@ CMakeFiles/SDL3-shared.dir/src/thread/pthread/SDL_sysmutex.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
- /home/dethfo/e_port_folio/SDL/src/thread/pthread/SDL_sysmutex_c.h
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/thread/pthread/SDL_sysmutex_c.h

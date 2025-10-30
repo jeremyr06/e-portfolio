@@ -1,11 +1,11 @@
 CMakeFiles/SDL3-shared.dir/src/haptic/linux/SDL_syshaptic.c.o: \
- /home/dethfo/e_port_folio/SDL/src/haptic/linux/SDL_syshaptic.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/haptic/linux/SDL_syshaptic.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/haptic/linux/../SDL_syshaptic.h \
- /home/dethfo/e_port_folio/SDL/src/haptic/linux/../../joystick/SDL_sysjoystick.h \
- /home/dethfo/e_port_folio/SDL/src/haptic/linux/../../joystick/SDL_joystick_c.h \
- /home/dethfo/e_port_folio/SDL/src/haptic/linux/../../joystick/linux/SDL_sysjoystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/haptic/linux/../SDL_syshaptic.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/haptic/linux/../../joystick/SDL_sysjoystick.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/haptic/linux/../../joystick/SDL_joystick_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/haptic/linux/../../joystick/linux/SDL_sysjoystick_c.h \
  /usr/include/linux/input.h /usr/include/x86_64-linux-gnu/sys/time.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
@@ -29,8 +29,8 @@ CMakeFiles/SDL3-shared.dir/src/haptic/linux/SDL_syshaptic.c.o: \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
  /usr/include/asm-generic/posix_types.h \
  /usr/include/linux/input-event-codes.h \
- /home/dethfo/e_port_folio/SDL/src/haptic/linux/../../core/linux/SDL_evdev_capabilities.h \
- /home/dethfo/e_port_folio/SDL/src/haptic/linux/../../core/linux/SDL_udev.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/haptic/linux/../../core/linux/SDL_evdev_capabilities.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/haptic/linux/../../core/linux/SDL_udev.h \
  /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \

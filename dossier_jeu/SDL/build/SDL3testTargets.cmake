@@ -59,7 +59,7 @@ set_target_properties(SDL3::SDL3_test PROPERTIES
 set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(SDL3::SDL3_test PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELWITHDEBINFO "C"
-  IMPORTED_LOCATION_RELWITHDEBINFO "/home/dethfo/e_port_folio/SDL/build/libSDL3_test.a"
+  IMPORTED_LOCATION_RELWITHDEBINFO "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/libSDL3_test.a"
   )
 
 # Make sure the targets which have been exported in some other

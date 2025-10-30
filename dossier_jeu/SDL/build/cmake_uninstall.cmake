@@ -1,8 +1,8 @@
-if (NOT EXISTS "/home/dethfo/e_port_folio/SDL/build/install_manifest.txt")
-    message(FATAL_ERROR "Cannot find install manifest: \"/home/dethfo/e_port_folio/SDL/build/install_manifest.txt\"")
+if (NOT EXISTS "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"/home/dethfo/e-portfolio/dossier_jeu/SDL/build/install_manifest.txt\"")
 endif()
 
-file(READ "/home/dethfo/e_port_folio/SDL/build/install_manifest.txt" files)
+file(READ "/home/dethfo/e-portfolio/dossier_jeu/SDL/build/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 foreach(file ${files})
     message(STATUS "Uninstalling \"$ENV{DESTDIR}${file}\"")

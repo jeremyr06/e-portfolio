@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = -DUSING_GENERATED_CONFIG_H
 
-C_INCLUDES = -I/home/dethfo/e_port_folio/SDL/build/include-config-relwithdebinfo/build_config -I/home/dethfo/e_port_folio/SDL/src -I/home/dethfo/e_port_folio/SDL/include
+C_INCLUDES = -I/home/dethfo/e-portfolio/dossier_jeu/SDL/build/include-config-relwithdebinfo/build_config -I/home/dethfo/e-portfolio/dossier_jeu/SDL/src -I/home/dethfo/e-portfolio/dossier_jeu/SDL/include
 
 C_FLAGS = -O2 -g -DNDEBUG -fvisibility=hidden -Wall -Wundef -Wfloat-conversion -fno-strict-aliasing -Wshadow -Wno-unused-local-typedefs -Wimplicit-fallthrough -fdiagnostics-color=always
 

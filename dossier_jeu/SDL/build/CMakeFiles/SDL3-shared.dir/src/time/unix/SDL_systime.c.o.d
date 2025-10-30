@@ -1,8 +1,8 @@
 CMakeFiles/SDL3-shared.dir/src/time/unix/SDL_systime.c.o: \
- /home/dethfo/e_port_folio/SDL/src/time/unix/SDL_systime.c \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/time/unix/SDL_systime.c \
  /usr/include/stdc-predef.h \
- /home/dethfo/e_port_folio/SDL/src/SDL_internal.h \
- /home/dethfo/e_port_folio/SDL/src/time/unix/../SDL_time_c.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/SDL_internal.h \
+ /home/dethfo/e-portfolio/dossier_jeu/SDL/src/time/unix/../SDL_time_c.h \
  /usr/include/errno.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
