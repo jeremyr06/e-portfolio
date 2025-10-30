@@ -1,0 +1,12 @@
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/SDL3-shared.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/SDL3_test.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/SDL_uclibc.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/uninstall.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/package.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/package_source.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/edit_cache.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/rebuild_cache.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/list_install_components.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/install.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/install/local.dir
+/home/dethfo/e_port_folio/SDL/build/CMakeFiles/install/strip.dir
