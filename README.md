@@ -19,7 +19,7 @@ Two choices :
 
     - if you are on windows without acces to a linux setup you 
     can double click on 'programme.exe' (WARNING : this is a test
-    version so there is some problems with the window which twinkles.
+    version so there are some problems with the window which twinkles.
     I'm warning epileptic peaple and I'm sorry).
 
     - if you have an linux setup : you can open the folder called 'game_folder'
